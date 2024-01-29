@@ -1,0 +1,18 @@
+h1 {
+    color: green;
+    text-align: center;
+}
+header img {
+    width: 100%;
+}
+header img{
+        width: 100%;
+    }
+main {
+    width: 90%;
+    margin: auto;
+}
+p {
+    font-size: 18px;
+    text-align: justify;
+}
